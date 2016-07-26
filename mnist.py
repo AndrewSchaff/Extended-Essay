@@ -162,7 +162,11 @@ def load_MNIST():
 
     return trainingSet, validationSet, testSet
 
-#Extracted from a Neural Networks online textbook
+"""
+The following function is based on Michael Nielsen's code for displaying 
+MNIST digits.  The code can be found at the following URL:
+https://github.com/colah/nnftd/blob/master/fig/chap3/mnist.py
+"""
 def get_images(training_set):
     """ Return a list containing the images from the MNIST data
     set. Each image is represented as a 2-d numpy array."""
