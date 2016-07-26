@@ -175,11 +175,13 @@ def get_images(training_set):
     
     return numpyArrays
 
+#Show a specific image from a dataset
 def showDatasetSample(sample):
     value = list(sample[1]).index(1)              #Transform network outputs to numbers [0,0,1,0,0,0,0,0,0,0] -> 2
     tmp = number(sample[0], value, False)   #Create a temporary number object
     tmp.display()                           #Display the object
 
+#Quickly run through the images in a dataset
 def dramaticShowAll(ds):
     for img in ds:
         img.display()
