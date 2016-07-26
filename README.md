@@ -15,8 +15,8 @@ The copy of the MNIST dataset I used has been provided by Michael Nielsen provid
 ## Sources
 Some of the programs found on this repository uses code snippets from other websites and sources.  I have done my best to reference these snippets here.
 
-### [`map` Function] (https://mail.python.org/pipermail/tutor/2013-August/097291.html)
+#### [`map` Function] (https://mail.python.org/pipermail/tutor/2013-August/097291.html)
 This function is used in `mnist.py`.
 
-### [Image Loading in `mnist.py`] (https://github.com/colah/nnftd/blob/master/fig/chap3/mnist.py)
+#### [Image Loading in `mnist.py`] (https://github.com/colah/nnftd/blob/master/fig/chap3/mnist.py)
 This program borrows the function `get_images` from the URL above.
