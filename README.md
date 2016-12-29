@@ -1,5 +1,5 @@
 # Extended Essay
-Here, you can find all of the programs used in the research for my IB Extended Essay on Artificial Neural Networks in the recognition of handwritten digits from the MNIST library.
+Here, you can find all of the programs used in the research for my IB Extended Essay on Artificial Neural Networks in the recognition of handwritten digits from the MNIST library.  If you are interested in reading this essay, it's included in this repo as a PDF ("Combining Artificial Neural Networks with Genetic Algorithms in Order to Recognize Handwritten Digits from the MNIST Database.PDF")
 
 
 ### NOTICE
